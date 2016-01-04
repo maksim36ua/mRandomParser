@@ -1,0 +1,9 @@
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MrandomParser\MrandomParser\bin\Debug\MrandomParser.exe.config
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MrandomParser\MrandomParser\bin\Debug\MrandomParser.exe
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MrandomParser\MrandomParser\bin\Debug\MrandomParser.pdb
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MrandomParser\MrandomParser\obj\Debug\MrandomParser.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MrandomParser\MrandomParser\obj\Debug\MrandomParser.exe
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MrandomParser\MrandomParser\obj\Debug\MrandomParser.pdb
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MrandomParser\MrandomParser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MrandomParser\MrandomParser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MrandomParser\MrandomParser\bin\Debug\HtmlAgilityPack.xml
