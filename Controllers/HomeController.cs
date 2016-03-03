@@ -12,7 +12,7 @@ namespace mRandomRaffleParser.Controllers
 {
     public class HomeController : Controller
     {
-        private List<string> winnersList = new List<string>() { "Add link " };
+        private List<string> winnersList = new List<string>() { "Paste your link in the textbox higher" };
         public IActionResult Index()
         {
             return View(winnersList);            
@@ -65,7 +65,7 @@ namespace mRandomRaffleParser.Controllers
             }
             catch (Exception)
             {
-                winnersList.Add("Error occured");
+                winnersList.Add("Wrong link or bad Internet connection");
                 return winnersList;
             }
         }
